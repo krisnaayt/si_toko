@@ -63,6 +63,7 @@
                     <input class="btn btn-success" type="submit" name="btn" value="Save"/>
                 </form>
             </div>
+            <div></div>
 
             <div class="card-footer small text-muted">
                 *required fields
